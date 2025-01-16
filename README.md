@@ -1,4 +1,4 @@
-# Unicamp-UAV-Dataset
+# Unicamp-UAV Dataset
 
 ## UAV dataset for human detection
 
