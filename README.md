@@ -1,6 +1,7 @@
 # Unicamp-UAV Dataset
 
-## UAV dataset for human detection
+## Dataset for human detection in UAV images 
+
 Human detection in UAV images has proven to be significant for a wide range of applications, including search and rescue operations, crowd counting for public safety, surveillance, and military operations. Emerging activities have also benefited from human detection in UAV imagery. For instance, in planning safe routes for UAVs, human detection in UAV images obtained in real-time can ensure a minimum distance between the UAV and people along the route, as defined by UAV operation regulations in some countries.
 
 Despite significant progress in person detection with the deep learning era, it remains a challenging task. UAV imagery can be considered a special case of small or even tiny object detection—such as people in UAV images. The variable size of individuals, diverse human poses, complex backgrounds, and the large volume of data in UAV images, combined with varying lighting conditions and different heights and perspectives from which images are captured, all contribute to the complexity this task. Considering these particularities, the quality of the dataset used to train the deep learning model for object detection is crucial to achieving reliable results. Despite the availability of publicly accessible datasets, finding an appropriate dataset for a specific, large-scale application that is accurately annotated is challenging. 
