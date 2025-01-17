@@ -17,6 +17,17 @@ To contribute to the scientific community focused on small object detection and 
 
 Representative images from our dataset are presented below.
 
+<table>
+  <tr>
+    <td><img src="https://drive.google.com/file/d/1pG4HAjvIsbq62Dtf-s1lHBpu0bWqVMKd/view?usp=sharing" alt="Descrição 1" width="300"/></td>
+    <td><img src="https://drive.google.com/file/d/1C-Efu3AaMub5WlsxMm2TXxCIoac-23Fu/view?usp=sharing" alt="Descrição 2" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://drive.google.com/file/d/1lWjc5SaL5qfnWOyl6dAOrpMC5MlKxBac/view?usp=sharing" alt="Descrição 3" width="300"/></td>
+    <td><img src="https://drive.google.com/file/d/1y_HsdZWzu623sLwi6uwYLiE5SHfJTOC7/view?usp=sharing" alt="Descrição 4" width="300"/></td>
+  </tr>
+</table>
+
 
 ## Dataset Info
 - Bounding box annotations are available in text format for all the train, validation, and test sets separately;
@@ -27,5 +38,6 @@ Representative images from our dataset are presented below.
 
 - This dataset is intended for academic research only and should not be used for commercial applications;
 - To access the dataset, visit [Unicamp-UAV](https://drive.google.com/drive/folders/1ZpdnmakLtd6gXynRRjebpSZ1rD3TfehJ?usp=sharing);
-- If you use our dataset in your work, please cite us: 
+- If you use our dataset in your work, please cite us:
+
 _SIMÕES, D. P.; OLIVEIRA, H. C.; MARSICO, S.; SOUZA, J. R.; BARBOSA, L. A. Advancements in human detection using UAV imagery: the Unicamp-UAV dataset and a comparison of recent YOLO models. ISPRS Journal of Photogrammetry and Remote Sensing. 2025. Submitted for publication._
