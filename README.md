@@ -19,6 +19,9 @@ Representative images from our dataset are presented below.
 
 
 ## Dataset Info
+•	Bounding box annotations are available in text format for all the train, validation, and test sets separately;
+•	Some of the test images and labels are provided in this repo for simple inference purposes and can be found in the [Test Images - Sample]( https://github.com/SimoesDP/Unicamp-UAV-Dataset/tree/main/Test%20Images%20-%20Sample) and [Test Images - Sample]( https://github.com/SimoesDP/Unicamp-UAV-Dataset/tree/main/Test%20Labels%20-%20Sample) folders, respectively;
+•	All the images in the dataset are color images (RGB) with a resolution of 3840 x 2160 pixels.
 
 
 
