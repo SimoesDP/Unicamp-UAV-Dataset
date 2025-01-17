@@ -19,12 +19,12 @@ Representative images from our dataset are presented below.
 
 <table>
   <tr>
-    <td><img src="https://drive.google.com/file/d/1pG4HAjvIsbq62Dtf-s1lHBpu0bWqVMKd/view?usp=sharing" alt="Descrição 1" width="300"/></td>
-    <td><img src="https://drive.google.com/file/d/1C-Efu3AaMub5WlsxMm2TXxCIoac-23Fu/view?usp=sharing" alt="Descrição 2" width="300"/></td>
+    <td><img src="https://github.com/SimoesDP/Unicamp-UAV-Dataset/blob/main/Repository%20figures/DJI_0083_2224.jpg" alt="Descrição 1" width="300"/></td>
+    <td><img src="https://github.com/SimoesDP/Unicamp-UAV-Dataset/blob/main/Repository%20figures/DJI_0084_2062.jpg" alt="Descrição 2" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="https://drive.google.com/file/d/1lWjc5SaL5qfnWOyl6dAOrpMC5MlKxBac/view?usp=sharing" alt="Descrição 3" width="300"/></td>
-    <td><img src="https://drive.google.com/file/d/1y_HsdZWzu623sLwi6uwYLiE5SHfJTOC7/view?usp=sharing" alt="Descrição 4" width="300"/></td>
+    <td><img src="https://github.com/SimoesDP/Unicamp-UAV-Dataset/blob/main/Repository%20figures/DJI_0084_6589.jpg" alt="Descrição 3" width="300"/></td>
+    <td><img src="https://github.com/SimoesDP/Unicamp-UAV-Dataset/blob/main/Repository%20figures/DJI_0084_7384.jpg" alt="Descrição 4" width="300"/></td>
   </tr>
 </table>
 
