@@ -19,12 +19,14 @@ Representative images from our dataset are presented below.
 
 
 ## Dataset Info
-•	Bounding box annotations are available in text format for all the train, validation, and test sets separately;
-•	Some of the test images and labels are provided in this repo for simple inference purposes and can be found in the [Test Images - Sample]( https://github.com/SimoesDP/Unicamp-UAV-Dataset/tree/main/Test%20Images%20-%20Sample) and [Test Images - Sample]( https://github.com/SimoesDP/Unicamp-UAV-Dataset/tree/main/Test%20Labels%20-%20Sample) folders, respectively;
-•	All the images in the dataset are color images (RGB) with a resolution of 3840 x 2160 pixels.
-
-
+- Bounding box annotations are available in text format for all the train, validation, and test sets separately;
+- Some of the test images and labels are provided in this repo for simple inference purposes and can be found in the [Test Images - Sample]( https://github.com/SimoesDP/Unicamp-UAV-Dataset/tree/main/Test%20Images%20-%20Sample) and [Test Images - Sample]( https://github.com/SimoesDP/Unicamp-UAV-Dataset/tree/main/Test%20Labels%20-%20Sample) folders, respectively;
+- All the images in the dataset are color images (RGB) with a resolution of 3840 x 2160 pixels.
 
 ## Access to data
 
-[Unicamp-UAV](https://drive.google.com/drive/folders/1ZpdnmakLtd6gXynRRjebpSZ1rD3TfehJ?usp=sharing)
+- This dataset is intended for academic research only and should not be used for commercial applications;
+- To access the dataset, visit [Unicamp-UAV](https://drive.google.com/drive/folders/1ZpdnmakLtd6gXynRRjebpSZ1rD3TfehJ?usp=sharing) – permission is required;
+- If you use our dataset in your work, please cite us: 
+_SIMÕES, D. P.; OLIVEIRA, H. C.; MARSICO, S.; SOUZA, J. R.; BARBOSA, L. A. Advancements in human detection using UAV imagery: the Unicamp-UAV dataset and a comparison of recent YOLO models. ISPRS Journal of Photogrammetry and Remote Sensing. 2025. Submitted for publication. 
+_
