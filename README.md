@@ -15,10 +15,10 @@ To contribute to the scientific community focused on small object detection and 
 
 | Data        | Sampled images | Object instances | 
 |-------------|----------------|------------------| 
-| Train       | 4160           | 35968            |
-| Validation  | 1040           | 9617             |
-| Test        | 1300           | 12970            |
-| Total       | 6500           | 58555            |
+| Train       | 4160           | 35915            |
+| Validation  | 1040           | 9613             |
+| Test        | 1300           | 12959            |
+| Total       | 6500           | 58487            |
 
 </div>
 
