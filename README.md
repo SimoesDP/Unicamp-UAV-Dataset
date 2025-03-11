@@ -47,4 +47,4 @@ Representative images from our dataset are presented below.
 - To access the dataset, visit [Unicamp-UAV](https://drive.google.com/drive/folders/1ZpdnmakLtd6gXynRRjebpSZ1rD3TfehJ?usp=sharing);
 - If you use our dataset in your work, please cite us:
 
-_SIMÕES, D. P.; OLIVEIRA, H. C. Advancements in human detection using UAV imagery: the Unicamp-UAV dataset and a comparison of recent YOLO models. ISPRS Journal of Photogrammetry and Remote Sensing. 2025. Submitted for publication._
+_SIMÕES, D. P.; OLIVEIRA, H. C.; PEREIRA, D. R. Human detection using UAV imagery: the Unicamp-UAV dataset and a comparison of recent YOLO models. ISPRS Journal of Photogrammetry and Remote Sensing. 2025. Submitted for publication._
